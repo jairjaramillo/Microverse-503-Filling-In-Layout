@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-module SiteHelper
+module UsersHelper
 end
